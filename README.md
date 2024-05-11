@@ -1,16 +1,10 @@
-# front
+idk why I made it 👀
 
-A new Flutter project.
+I actually wanted to try webrtc for peer2peer sessions, and do an [algorithmic opponent](https://www.chessprogramming.org/Recommended_Reading) but... maybe later
 
-## Getting Started
+![](photo_2024-05-11_17-38-51.jpg)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Rules mostly follow [this](https://en.wikipedia.org/wiki/Rules_of_chess), excluding
+* en passant cus i think it makes pawns op
+* castling cus its useless
+* promotion cus I didnt bother to implement it yet
